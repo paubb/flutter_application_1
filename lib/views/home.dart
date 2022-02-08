@@ -43,17 +43,17 @@ class _HomePageState extends State<HomePage> {
             backgroundColor: Palette.coral,
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.mail),
+            icon: Icon(Icons.favorite),
             label: "Item2",
             backgroundColor: Palette.teaGreen,
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.person),
+            icon: Icon(Icons.card_travel),
             label: "Item3",
             backgroundColor: Palette.palePurplePantone,
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.bookmark),
+            icon: Icon(Icons.person),
             label: "Item4",
             backgroundColor: Palette.rhythm,
           )
